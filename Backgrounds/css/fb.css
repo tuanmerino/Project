@@ -1,0 +1,269 @@
+body.fbIndex { background: url('https://raw.githubusercontent.com/tuanmerino/tuanmerino.github.io/master/bg/bg.jpg') !important; background-repeat: no-repeat !important; height: 100vh !important; overflow: hidden !important; background-position: center !important; background-size: cover !important; }
+
+.fbIndex #globalContainer #dropmenu_container, .fbIndex #globalContainer #content, .fbIndex #globalContainer #pageFooter { display: none !important; }
+
+.fbIndex #pagelet_bluebar #blueBarDOMInspector ._53jh { border-bottom: 0 !important; min-height: 0 !important;}
+
+.fbIndex .loggedout_menubar_container .loggedout_menubar .lfloat._ohe { display: none !important; }
+
+.fbIndex .loggedout_menubar_container { position: absolute !important; width: 580px !important; min-width: 0 !important; top: 58% !important; left: 50% !important; margin-top: 17px !important; margin-left: -210px !important; z-index: 99 !important; }
+
+.fbIndex .loggedout_menubar { width: auto !important;
+margin-top: -200px; }
+
+.fbIndex .loggedout_menubar_container .lfloat, .fbIndex .loggedout_menubar_container .rfloat { float: none !important; }
+
+.fbIndex .loggedout_menubar_container .lfloat img, .fbIndex .loggedout_menubar_container .rfloat #login_form table { display: block !important; margin: 0 auto !important; }
+
+.fbIndex .loggedout_menubar_container .lfloat img { display: block!important; margin: -60px auto 20px !important; }
+
+._5a-- { display: none !important; }
+
+#SetAsHomepage_Callout { display: none!important; }
+.menu_login_container{
+
+}
+
+.fbIndex .menu_login_container tbody { 
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; 
+    color: #c0392b; 
+    margin-right:0px;
+    margin-left:100%;
+    text-align: center;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    width: 80%;
+    padding: 2px 2px;
+    box-sizing: border-box;
+    height: 200px;
+    background: transparent;}
+
+
+.fbIndex .menu_login_container tbody tr,.fbIndex .menu_login_container tbody tr td { display: grid !important; }
+
+.fbIndex .menu_login_container table tr:nth-child(1),.fbIndex .menu_login_container table tr:nth-child(3) { display: none !important; }
+
+.fbIndex .menu_login_container table tr:nth-child(2) { width: 410px !important; overflow: hidden !important; margin-left: 5px; margin-top: 10px !important;  }
+
+.fbIndex .menu_login_container table tr:nth-child(2) td:nth-child(1) { animation: username 1s forwards !important; transform: translateX(-500px) !important; opacity: 0 !important; }
+
+.fbIndex .menu_login_container table tr:nth-child(2) td:nth-child(2) { animation: password 1s forwards !important; transform: translateX(500px) !important; }
+
+.fbIndex .menu_login_container table tr:nth-child(2) td:nth-child(3) { animation: login .7s forwards !important; animation-delay: 1s !important; opacity: 0 !important; }
+
+.fbIndex .menu_login_container .inputtext { width: 60% !important; margin: 8px 0px !important; padding: 10px 20px !important; font-size: 1rem !important; background: transparent !important; box-shadow: none !important; color: #ecf0f1 !important; outline: none !important; border: 0px solid rgba(128, 128, 128, 1) !important;} 
+
+td:nth-child(3) label#loginbutton { width: 94.2% !important; margin-top: 10px !important; outline: none !important; background: transparent !important; border: 0px solid !important;}
+
+td:nth-child(3) label#loginbutton > input[type=submit] { padding: 10px 15px !important; font-size: .9rem !important; color: #fff !important; outline: none !important; }
+
+@keyframes username  { from{ transform: translateX(-500px); opacity: 0;  } to { transform: translateX(0px); opacity: 1;  } }
+
+@keyframes password { from{ transform: translateX(500px); opacity: 0;  } to { transform: translateX(0px); opacity: 1;  } }
+
+@keyframes login{ from{ opacity: 0.5;  } to { opacity: 1;  } }
+
+
+/*--------------------------------------------------------------------------------------------------------------*/
+div.fbNub._50mz .fbDockChatTabFlyout{
+width:70%;
+bottom: -40px;
+}
+.sidebarMode .fbChatSidebar {
+margin-top:42px;
+ height:94% !important;
+}
+._5qqe {
+    height: 0px !important;
+}
+.rNubContainer .fbNubFlyout, .lNubContainer ._50-v .swapDirection {
+    right: -15px;
+}
+/*---------------------------------------------------------------------------------------------------------*/
+/*Thanh cuộc*/
+::-webkit-scrollbar {
+    background: rgba(33, 33, 2, 0.2) !important;
+}
+/*--------------------------------------------------------------------------------------------------------*/
+#u_ps_0_0_1 {
+    background: transparent; !important;
+}
+
+
+/*Menu nav*/
+._2t-a._50tj {
+    background: #e74c3c !important;
+}
+
+/*Menu nav*/
+._2s1x ._2s1y {
+    background-color: rgba(0,0,0,0.3) !important;
+
+}
+/* Cot 1*/
+._55y4._3m75 {
+    background:rgba(1,1,1,.1) !important;
+    border-radius: 6px 6px 6px 6px;
+    width: 102%;
+}
+._3m75 .sideNavItem.sideNavItem.sideNavItem ._5afe {
+    background-color: #c0392b;}
+a {
+    color: #00256b;}
+/*Backgroud tro choi*/
+._4ejc {
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+/*Các dòng trắng*/
+._ipo {
+    background: none !important;
+}
+._4-u8 {
+    background: none !important;
+}
+
+
+/*Phần Bình Luận*/
+w2cnrG8msyT.css:67._5vsj._5vsj._5vsj {
+    background: red !important;
+color:#1d2129  !important
+}
+/*Chổ Bình Luận*/
+._fmi {
+        background-color: rgba(59, 120, 152, 0.15) !important;
+color : #red !important;
+}
+/*Pha chu binh luan*/
+._1mf._1mj {
+    color: #1f1a25 !important;
+}
+._5vb_, ._5vb_ #contentCol {
+    background-color: #e9ebee !important; 
+    color: #1d2129 !important;
+}
+
+/*Tìm Kiếm*/
+._585- {
+    background-color: rgba(0, 0, 0, 0.1) !important;
+    border: 1px solid #3b5998;
+}
+/*Backgroud*/
+body {
+/*  -webkit-animation: background 5s cubic-bezier(1,0,0,1) infinite;
+  animation: background 5s cubic-bezier(1,0,0,1) infinite;  
+  color: white;
+*/
+background-color: transparent;  
+}
+
+@-webkit-keyframes background {
+  0% { background-color: #ffcdd2; }
+  25% { background-color: #ef9a9a; }
+  50% { background-color: #e57373; }  
+  75% { background-color: #ef5350; }
+  100% { background-color: #f44336; }
+}
+
+@keyframes background {
+  0% { background-color: #B3E5FC; }
+  10% { background-color: #81D4FA; }
+  20% { background-color: #4FC3F7; }  
+  30% { background-color: #29B6F6; }
+  40% { background-color: #03A9F4; }
+  50% { background-color: #039BE5; }
+   60% { background-color: #0288D1; } 
+  70% { background-color: #0091EA; }
+  80% { background-color: #00B0FF; }
+  90% { background-color: #40C4FF; }
+  100% { background-color: #80D8FF; }
+}
+#userNav{
+  -webkit-animation: background 3s cubic-bezier(1,0,0,1) infinite;
+  animation: background 3s cubic-bezier(1,0,0,1) infinite; 
+}
+
+#left_nav_section_nodes {
+        color: white;
+    background-color: transparent;
+}
+._1-ia{
+            color: white;
+    background-color: transparent;
+}
+
+
+.fcg{
+       color: #bdc3c7; 
+}
+
+._ipm{color: #bdc3c7; }
+._-56{color: #bdc3c7; }
+.uiLayer{background-color:#bdc3c7;}
+._1oxj{background-color:#bdc3c7;}
+a{color: #bdc3c7;}
+._ikh{
+  -webkit-animation: background 1s cubic-bezier(1,0,1,1) infinite;
+  animation: background 1s cubic-bezier(0,1,0,1) infinite;
+}
+#fb-timeline-cover-name{
+    font-family:  "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    color: #c0392b;
+}
+.profileLink{
+    color: #2c3e50;
+}
+.inputtext{
+    color: #2c3e50;
+}
+._1m9m{
+    height: 30%;
+    width: 30%;
+}
+
+#loginbutton{
+    background-color: #ef5350;
+}
+._1tqi {
+    background-color: #ef5350;
+    color: white;
+}
+ ._5l-3{
+    background-color: #ef5350;
+    color: white;
+}
+._36ic{
+    background-color: #ef5350;
+    color: white;
+}
+._1ht6{
+    color:white;
+}
+._1g5v{
+    background-color: transparent;
+}
+
+._1j2v{
+    /* status */
+    background-color: transparent;
+}
+
+._16ve{
+    /* status */
+    background-color: transparent;
+}
+
+
+
+
+
+
+
+/* youtube */
+.ytd-page-manager{
+    background-color: #ffffff;
+}
+#sections{
+    background-color: #ffffff;
+    color: white;
+}
